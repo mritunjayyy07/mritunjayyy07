@@ -1,12 +1,8 @@
-<h1 align="center">Hey 👋 I'm Mritunjay Rai</h1>
-<h3 align="center">Building scalable systems & turning ideas into products 🚀</h3>
-
----
 
 ## 🧠 About Me
 
 - 🎓 3rd Year CSE Student
-- 💻 MERN + PostgreSQL + TypeScript
+- NodeJS + PostgreSQL + TypeScript
 - 🧩 Strong in Data Structures & Problem Solving
 - ⚡ Currently building real-world full-stack products
 - 🚀 Interested in SaaS, System Design & AI
@@ -26,6 +22,8 @@
 </p>
 
 ---
+## Open Source Contributions
+PR merged in libGDX - https://github.com/libgdx/libgdx/pull/7782
 
 ## 🚀 Currently Building
 
@@ -36,6 +34,7 @@
 ---
 
 ## 📊 GitHub Stats
+
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=mritunjayyy07&show_icons=true&theme=tokyonight" />
@@ -58,4 +57,4 @@
 
 ---
 
-⭐ "Consistency > Motivation"
+
