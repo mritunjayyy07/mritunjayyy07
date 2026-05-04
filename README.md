@@ -12,5 +12,6 @@
 ---
 ## Open Source Contributions
 PR merged in libGDX - https://github.com/libgdx/libgdx/pull/7782
+PR merged in riscV - https://github.com/riscv/riscv-isa-manual/pull/3011
 
 
