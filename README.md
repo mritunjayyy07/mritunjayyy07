@@ -1,4 +1,2 @@
-Things I am currently working on:
-1. Golang (Backend)
-2. Distributed Systems
-3. AI
+I write Go, Java, TypeScript, Python.
+Reading about distributed systems and fine tuning models.
